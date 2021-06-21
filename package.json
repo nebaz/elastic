@@ -1,0 +1,12 @@
+{
+  "name": "elastic",
+  "main": "Elastic.js",
+  "version": "1.0.0",
+  "description": "elasticsearch wrapper",
+  "repository": "https://github.com/nebaz/elastic",
+  "license": "MIT",
+  "author": "Nebaz <nebaz@ya.ru>",
+  "dependencies": {
+    "elasticsearch": "^16.7.2"
+  }
+}
